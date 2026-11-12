@@ -1,0 +1,5 @@
+# model outputs to harmful requests and the human-audit sheets must never be committed
+results/gen_*.jsonl
+results/audit_*
+results/*.log
+__pycache__/
